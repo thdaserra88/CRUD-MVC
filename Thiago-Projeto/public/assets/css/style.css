@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    align-items: center; /* centraliza verticalmente */
+    }
+    
+    nav img{
+    margin-left: auto;   /* joga a imagem para a direita */
+    }
+
+    nav{
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        }
